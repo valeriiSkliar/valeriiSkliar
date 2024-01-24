@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valeriiSkliar
-- 👀 I’m interested in backEnd & FrontEnd DEV on JavaScript. 
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in backEnd & FrontEnd DEV on JavaScript or PHP. 
+- 🌱 I’m currently using in my wor ( React, Next.js, Laravel ).
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me:
 - tel. +380 97 395 7009 (telegram, viber, whatsapp);
